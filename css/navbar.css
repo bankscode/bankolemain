@@ -40,4 +40,8 @@ a {
     width: 90%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 
+  .navbar-items p {
+    font-size: 14px;
+  }
+
 }

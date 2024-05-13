@@ -8,12 +8,7 @@ body {
   background-color: #F5EFE7;
   padding-top: 170px;
   padding-bottom: 200px;
-}
-
-.about-overall-container {
-  background-color: #F5EFE7;
-  padding-top: 170px;
-  padding-bottom: 200px;
+  margin: 0;
 }
 
 p, h1 {
