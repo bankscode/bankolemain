@@ -1,0 +1,46 @@
+body {
+  background-color: #163020;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.overall-container {
+  background-color: #F5EFE7;
+  padding-top: 170px;
+  padding-bottom: 200px;
+}
+
+.about-overall-container {
+  background-color: #F5EFE7;
+  padding-top: 170px;
+  padding-bottom: 200px;
+}
+
+p, h1 {
+  color: rgb(2, 90, 78);
+}
+
+@media screen and (max-width: 932px) {
+  .header {
+    width: 90%;
+  }
+
+  .idea-icon {
+    right: 0;
+    width: 60px;
+  }
+
+  .pentool-icon-2 {
+    left: 0;
+    width: 60px;
+  }
+
+  .second-container {
+    grid-template-columns: 1fr;
+  }
+
+  .second-container-2 {
+    grid-template-columns: 1fr;
+  } 
+
+}

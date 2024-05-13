@@ -1,0 +1,570 @@
+.header {
+  width: 60%;
+  margin: auto;
+  position: relative;
+}
+
+.main {
+  text-align: center;
+  font-size: 90px;
+  margin: 0;
+  line-height: 100%;
+  font-family: "Gochi Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.subheading  {
+  text-align: center;
+  margin-top: 0;
+  font-size: 22px;
+  padding-top: 35px;
+  line-height: 1.6;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(2, 90, 78);
+}
+
+.idea-icon {
+  width: 80px;
+  position: absolute;
+  right: 40px;
+  top: -40px;
+}
+
+.pentool-icon-2 {
+  width: 80px;
+  position: absolute;
+  bottom: 40px;
+  left: 0;
+}
+
+span {
+  border: 2px solid #B6C4B6;
+  padding: 3px 7px 1.5px;
+  font-size: 10px;
+  margin-left: 4px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+/* About Navbar Styling */
+
+.profile {
+  display: flex;
+  flex-direction: row;
+  flex: 1fr 2fr;
+  align-items: center;
+  height: 450px;
+}
+
+.sean {
+  height: 450px;
+  border-radius: 300px 300px 0 0;
+}
+
+.about-header {
+  width: 77%;
+  margin: auto;
+}
+
+.down-spotify {
+  background-color: rgb(2, 90, 78);
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  flex: 60px 1fr;
+  align-items: center;
+  padding: 20px 0 20px 15px; 
+}
+
+.spotify-about {
+  height: 60px;
+  margin-right: 14px;
+}
+
+.word-1 {
+  margin: 0;
+  color:  #B6C4B6;
+  font-size: 15px;
+}
+
+.word-2 {
+  margin: 0;
+  color: #EEF0E5;
+  font-size: 12px;
+  padding-top: 4px;
+}
+
+.left-profile {
+  position: relative;
+}
+
+.right-profile {
+  padding: 0 0 0 100px ;
+}
+
+.sub-heading-title-2 {
+  font-size: 20px;
+  color: rgb(76, 103, 99);
+  font-weight: 400;
+  font-style: normal;
+  line-height: 2;
+}
+
+.sub-heading-title-22 {
+  margin-bottom: 0;
+}
+
+.intro-about {
+  margin-bottom: 60px;
+}
+
+.heading-title-2 {
+  font-size: 50px;
+  margin: 0;
+  color: rgb(2, 90, 78);
+  line-height: 100%;
+  font-family: "Ubuntu", sans-serif;
+  line-height: 1.3;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+.work-experience {
+  margin: 100px 80px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
+}
+
+.right-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(2, 90, 78);
+  margin-bottom: 20px;
+  padding: 18px 40px;
+  border-radius: 100px;
+}
+
+.left-info-2 p {
+  margin: 0;
+  color: #F5EFE7;
+}
+
+.left-info p {
+  color: white;
+  margin: 0;
+}
+
+.left-info-21 {
+  padding-left: 100px;
+}
+
+.left-info-22 {
+  padding-left: 250px;
+}
+
+.left-info-23 {
+  padding-left: 500px;
+}
+
+.left-info-24 {
+  padding-left: 300px;
+}
+
+.left-info-25 {
+  padding-left: 150px;
+}
+
+.little {
+  padding-top: 5px;
+}
+
+.right-experices2 {
+  margin-right: 100px;
+}
+
+.right-experices3 {
+  margin-right: 20px;
+}
+
+.right-experices4 {
+  margin-right: 600px;
+}
+
+.right-experices5 {
+  margin-right: 880px;
+}
+
+.let-collaborate {
+  text-align: left;
+  width: 70%;
+  margin-right: 80px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  position: relative;
+  float: right;
+}
+
+.collaborate-2 {
+  width: 75%;
+}
+
+
+
+.card-box {
+  width: 90%;
+  margin: auto;
+  background-color: rgba(255, 251, 245, 0.6);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 100px 100px 50px 120px;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+
+.h1 {
+  font-size: 60px;
+  margin: 0;
+  line-height: 100%;
+  font-family: "Gochi Hand", cursive;
+  font-weight: 500;
+  font-style: normal;
+  color: #B6C4B6;
+}
+
+.h2 {
+  font-size: 35px;
+  margin: 25px 0 0;
+  line-height: 100%;
+  font-family: "Ubuntu", sans-serif;
+  line-height: 1.1;
+  font-weight: 500;
+  font-style: normal;
+  color: #304D30;
+}
+
+.h3 {
+  font-size: 20px;
+  padding-right: 40px;
+  padding-bottom: 30px;
+  color: rgb(76, 103, 99);
+  font-weight: 400;
+  font-style: normal;
+  line-height: 2;
+}
+
+
+
+
+.before-i {
+  width: 50%;
+  margin: auto;
+  padding: 50px 0;
+}
+
+.h3-i {
+  font-size: 20px;
+  padding-bottom: 15px;
+  color: rgb(76, 103, 99);
+  font-weight: 400;
+  font-style: normal;
+  line-height: 2;
+}
+
+
+
+.image-section {
+  margin: auto;
+  width: 90%;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  column-gap: 40px;
+}
+
+.image-section img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.woman-walking {
+  object-position: left;
+}
+
+
+.tool-tip-div {
+  position: relative;
+}
+
+.tool-tip {
+  position: absolute;
+  bottom: 15px;
+  left: 20px;
+  background-color: #F5EFE7;
+  padding: 10px 15px;
+  border-radius: 8px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.tool-tip-div:hover .tool-tip {
+  opacity: 1;
+}
+
+
+/* .night-day {
+  display: flex;
+  flex-direction: row;
+  width: 75%;
+  margin: auto;
+  justify-content: space-between;
+}
+
+acorn", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+.night-day div {
+  height: 20px;
+  width: 2px;
+  border-radius: 50px;
+  background-color: #304D30;
+}
+
+.night-day .night {
+  background-color: #B6C4B6;
+}
+
+a {
+  display: block;
+} */
+
+
+
+/* Play Navbar Styling */
+
+.play-sub {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.custogi-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  
+}
+
+.custogi-line {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(255, 251, 245, 0.6);
+  padding: 20px 40px;
+  border-radius: 25px;
+  flex: 1fr 1fr;
+  transition: background-color 0.2s;
+}
+
+.wirebox-image {
+  height: 100px;
+  border-radius: 100px;
+}
+
+.turn-hi {
+  width: 90%;
+  font-size: 16px;
+  color: rgb(76, 103, 99);
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.6;
+  margin-top: 10px;
+}
+
+.wire-box {
+  font-size: 20px;
+  color: rgb(2, 90, 78);
+  line-height: 100%;
+  font-family: "Ubuntu", sans-serif;
+  line-height: 1.3;
+  font-weight: 500;
+  font-style: normal;
+  margin-bottom: 0;
+}
+
+
+
+.play-play {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  margin: 80px 72px;
+}
+
+.play-header {
+  position: relative;
+}
+
+.star-play {
+  width: 80px;
+  position: absolute;
+  right: 350px;
+  top: -40px;
+}
+
+.soon-text {
+  background-color:rgb(2, 90, 78);
+  padding: 5px 10px 6px 10px;
+  border-radius: 10px;
+  color:rgba(255, 255, 255);
+  font-size: 15px;
+  border-style: none;
+}
+
+/* Notes Navbar Styling */
+
+.notes-boxes {
+  width: 65%;
+  margin: auto;
+  margin-top: 80px;
+}
+
+.notte:hover {
+  background-color:rgba(255, 255, 255, 2.7)
+}
+
+
+/* Contact Navbar Styling */
+
+
+.contact-bot {
+  position: relative;
+
+}
+
+.bankole-bot {
+  position: absolute;
+  height: 500px;
+  width: 350px;
+  background-color: red;
+  right: -450px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.bot-image {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  border-radius: 100px;
+  border: 2px solid rgba(255, 255, 255);
+  margin-top: 6px;
+}
+
+.left-bot {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(2, 90, 78);
+  padding: 10px;
+  border-radius: 10px 10px 0 0;
+}
+
+.middle-bot {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: middle;
+}
+
+.middle-bot p {
+  margin: 0;
+  color:rgba(255, 255, 255);
+  margin-left: 10px;
+  letter-spacing: .5px;
+}
+
+.bot-head {
+  font-weight: 500;
+  font-size: 15px;
+  font-style: normal;
+}
+
+.bot-sub {
+  font-weight: 400;
+  font-size: 12px;
+  font-style: normal;
+}
+
+.close-icon {
+  fill: red;  
+}
+
+.heyeye {
+  background-color:#F5EFE7;
+}
+
+
+@media screen and (max-width: 932px) {
+  .header {
+    width: 90%;
+  }
+
+  .main {
+    font-size: 110px;
+    line-height: 0.9;
+  }
+
+  .subheading {
+    font-size: 30px;
+    line-height: 1.3;
+  }
+
+  .idea-icon {
+    right: 0;
+    width: 60px;
+  }
+
+  .pentool-icon-2 {
+    left: 0;
+    width: 60px;
+    bottom: 100px;
+  }
+
+  .in-progress {
+    width: 75%;
+  }
+
+  .navbar {
+    width: 90%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+
+
+
+
+  .about-header {
+    width: 90%;
+  }
+
+  .profile {
+    flex-direction: column;
+  }
+
+}
